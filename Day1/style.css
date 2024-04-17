@@ -1,0 +1,57 @@
+.biz-dev{
+    width:350px;
+    background-color: rgb(91, 247, 174);
+    border-radius: 40px;
+    margin:40px auto;
+    padding: 40px 70px 90px 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.biz-btn{
+    background-color: white;
+    border: none;
+    padding: 16px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 60px;
+    font-weight: bold;
+}
+.biz-p{
+    box-sizing: border-box;
+    font-weight: bold;
+    font-size: 12px;
+}
+.biz-head {
+    padding-right: 40px;
+    box-sizing: border-box;
+
+}
+.profile-box{
+    width: 500px;
+    margin: 50px auto;
+    border: 2px solid lightgray;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.images-box{
+    width: 100%;
+    box-sizing: border-box;
+    padding-right: 40px;
+    
+    
+}
+.img-1{
+    width: 10%;
+    border-radius: 50%;
+    
+}
+.img-2{
+    width: 10%;
+    border-radius: 50%;
+}
+.profile-p{
+    border-top: 2px solid lightgray;
+
+}
+
